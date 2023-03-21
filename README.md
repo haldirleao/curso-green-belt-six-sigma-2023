@@ -33,7 +33,7 @@ Para a criação deste repositório estão sendo usados os seguintes recursos te
 - Linguagem de marcação Markdown
 - Github
 - ChatGPT com prompt para atuar como "gerador de código $\LaTeX$". Detalhes do prompt [aqui](chatgpt-latex-prompt.md).
-- [Quick $\LaTeX$](https://quicklatex.com/). Para testes dos códigos $\LaTeX$, renderização das fórmulas matemáticas como imagem e uso como _linkware_. 
+- [QuickLaTeX](https://quicklatex.com/). Para testes dos códigos $\LaTeX$, renderização das fórmulas matemáticas como imagem e uso como _linkware_. 
 
 ### Meus contatos
 
