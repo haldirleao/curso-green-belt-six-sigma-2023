@@ -74,7 +74,7 @@ O 6 sigma é suportado por várias ferramentas. Temos que entender que temos dis
 
 ## Apresente os pontos mais importantes
 
-- O ciclo virtuso: Método e ferramentas **6 sigma** → **Redução da variabilidade** nos processos → **Melhoria da qualidade** → **Redução dos custos** → **Aumento do lucro** → **Satisfação** dos clientes e demais __stakeholders__.
+- O ciclo virtuoso: Método e ferramentas **6 sigma** → **Redução da variabilidade** nos processos → **Melhoria da qualidade** → **Redução dos custos** → **Aumento do lucro** → **Satisfação** dos clientes e demais __stakeholders__.
 - Metodologia fortemente ligada a fatos, dados, métricas, análises.
 - Busca contínua para ser _Best in Class_. Perseguir o  **$6\sigma$** ($3,4\space DPMO$).
 - **Qualidade não é somente sobre custos**. Atenção às vidas humanas, respeito ao meio-ambiente e outros impactos negativos que são incalculáveis.
