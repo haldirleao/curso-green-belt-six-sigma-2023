@@ -13,7 +13,7 @@ Autor: [@haldirleao](https://github.com/haldirleao)
 
 Para exemplificar a variabilidade em amostras o instrutor solicitou que fizéssemos cinco assinaturas em uma folha de papel. E questionou: as assinaturas são idênticas? Obviamente há diferenças entre as assinaturas, que pode ser entendida como variabilidade das cinco amostras.
 
-A **variação** entre as assinaturas tem **causas comuns** ou **especiais**? Segundo o instrutor se trata de **causa comum** neste caso, por que é **natural** que ocorram pequenas diferenças entre as assinaturas.
+A **variação** entre as assinaturas têm **causas comuns** ou **especiais**? Segundo o instrutor, se trata de **causa comum** neste caso, por que é **natural** que ocorram pequenas diferenças entre as assinaturas.
 
 Então ele solicitou que repetíssemos as cinco assinaturas, **mas agora com a outra mão**. Ao verificar as assinaturas, como é de se esperar, também ocorreram variações, ainda maiores que no exemplo anterior. 
 
@@ -28,9 +28,9 @@ As causas especiais **alteram a normalidade** do seu processo. Geralmente, os da
 Em um **relatório de capacidade do processo**, tais causas podem levar a uma significativa **diferença** entre a **normal Global** e a **normal Dentro**, indicando instabilidade no processo. Neste caso, a performance Global indica o comportamento real do processo, enquanto a  capacidade (Dentro) indica o comportamento do processo se este for estabilizado.
 
 ---
-#### Teste de capacidade (Servico de despertador de um hotel, CCR = ± 5 min)
+#### Teste de capacidade (Serviço de despertador de um hotel, CCR = ± 5 min)
 Dado o CCR, os dois limites da especificação são: LIE = -5 min / LSE = +5min.
-Ao analisar o **relatório de capacidade** no Minitab, somente pelo gráfico é perceptível deduzir que o nível **sigma é ~3** (já que a variação das **curvas normais Global e Dentro** são da **mesma amplitude e localização** dos limites LIE e LSE). Como as **curvas** são **semelhantes**, pode-se afirmar que o **processo está estabilizado** (sem causas especiais). Neste caso trabalhar na alteração da média não melhorará o processo. **Há que se trabalhar para reduzir a variabilidade do processo!**
+Ao analisar o **relatório de capacidade** no Minitab, somente pelo gráfico é perceptível deduzir que o nível **sigma é ~3** (já que a variação das **curvas normais Global e Dentro** são da **mesma amplitude e localização** dos limites LIE e LSE). Como as **curvas** são **semelhantes**, pode-se afirmar que o **processo está estabilizado** (sem causas especiais). Neste caso, trabalhar na alteração da média não melhorará o processo. **Há que se trabalhar para reduzir a variabilidade do processo!**
 
 ### 3.9.7 CAPACIDADE DO PROCESSO (dados por variáveis)
 
@@ -54,13 +54,13 @@ Onde LSE: Limite Superior de Especificação , LIE: Limite Inferior de Especific
 
 Exemplo. Dado LIE = 2, LSE = 8, σ = 1, logo:
 
-$C_p = \dfrac{8 - 2}{6 \times 1} = 1 % Cp = (LSE - LIE) / (6 * σ)$
+$C_p = \dfrac{8 - 2}{6 \times 1} = 1 % Cp = (8 - 2) / (6 * 1) = 1$
 
 Note: **Cp = 1** indica que é um **processo potencial 3 sigma**. Pode-se afirmar que a variação da **distribuição normal** é da **mesma amplitude e localização** dos limites LIE e LSE.
 
 Exemplo. Dado LIE = 2, LSE = 8, σ = 0,5, logo:
 
-$C_p = \dfrac{8 - 2}{6 \times 0,5} = 2 % Cp = (LSE - LIE) / (6 * σ)$
+$C_p = \dfrac{8 - 2}{6 \times 0,5} = 2 % Cp = (8 - 2) / (6 * 0,5)$
 
 Note: **Cp = 2** indica que é um **processo potencial 6 sigma**. Pode-se afirmar que a variação da **distribuição normal** é a **metade da amplitude** dos limites LIE e LSE, e a média está localizada em $\approx\frac{(LSE - LIE)}{2} % (LSE - LIE)/2$ (centro da especificação).
 
@@ -82,11 +82,11 @@ Foi proposto um exercício para o cálculo do **Cp** e **CpK** de capacidade de 
 
 ### 3.9.9 CAPACIDADE - DADOS NÃO NORMAIS 
 
-Foi proposto um exercício para o cálculo da **capacidade potencial** e **efetiva** de corredores da prova de 800 m raso a completarem com tempo entre **LIE = 90** s e **LSE = 100 s**. Considerar subgruopos de 5 tomadas de tempo.
+Foi proposto um exercício para o cálculo da **capacidade potencial** e **efetiva** de corredores da prova de 800 m raso a completarem com tempo entre **LIE = 90** s e **LSE = 100 s**. Considerar subgrupos de 5 tomadas de tempo.
 
 - Passo 1 - Executar o teste de normalidade Anderson-Darling. Caminho no Minitab: _Estat > Estatísticas Básicas > Teste de normalidade..._. O resultado foi **valor-P = 0,023**. Como **valor-P < 0,05** a distribuição **não é normal**.
 
-**_E agora, josé?_** Não se preocupe, há como chegar lá!
+**_E agora, José?_** Não se preocupe, há como chegar lá!
 
 - Passo 2 - Com o minitab é possível identificar em que tipo de distribuição tais dados melhor se encaixa. Caminho no Minitab: _Estat > Ferramentas da qualidade > Identificação de Distribuição individual..._. No relatório apresentado observe a tabela **Teste de Qualidade de Ajuste**. A distribuição a ser escolhida deve ser a com o maior valor **P**. Neste caso foi a distribuição **Maior Valor Extremo**. 
 - Passo 3 - Cálculo da capacidade com base nos valores da tabela e especificações dadas. **Lembre-se**: agora a distribuição é **Não Normal**. Caminho no Minitab: _Estat > Ferramentas da qualidade > Análise de capacidade > Não normal..._. **Lembre-se** que na caixa de diálogo deve ser ajustada a **distribuição** para **"Maior Valor Extremo"**. O resultado foi de 385.297 DPMO (38,5% de corredores não atingirão as especificações dadas). O resultado é ruim.
