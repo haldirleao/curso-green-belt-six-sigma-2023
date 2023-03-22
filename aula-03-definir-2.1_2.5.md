@@ -87,3 +87,9 @@ O projeto, seus objetivos e, consequentemente, os registros devem ser **SMART**:
 - Registre os projetos 6 sigma da organização. Preferencialmente em local único.
 - Projetos **6 sigma** devem ser **S.M.A.R.T**. 
 
+## Referências
+- Videoaulas 2.1 a 2.5 https://vimeo.com/showcase/9985114 (Acesso restrito aos alunos)
+- _Six Sigma Levels Rankings_ https://www.purdue.edu/leansixsigmaonline/blog/lean-six-sigma-belt-levels/
+- _What is Voice of the Customer (VoC)?_ https://www.thinkleansixsigma.com/article/voc
+- _QFD - Quality Function Deployment_ https://en.wikipedia.org/wiki/Quality_function_deployment
+- _Project charter_ https://www.voitto.com.br/blog/artigo/project-charter

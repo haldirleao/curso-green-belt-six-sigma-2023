@@ -80,3 +80,10 @@ O 6 sigma é suportado por várias ferramentas. Temos que entender que temos dis
 - **Qualidade não é somente sobre custos**. Atenção às vidas humanas, respeito ao meio-ambiente e outros impactos negativos que são incalculáveis.
 - **DMAIC**: - **D**efine - **M**easure; - **A**nalyze; - **I**mprove; **C**ontrol.
 
+## Referências
+- Videoaulas 1 a 5 https://vimeo.com/showcase/9985114 (Acesso restrito aos alunos)
+- _What is Six Sigma?_ https://asq.org/quality-resources/six-sigma
+- _Six Sigma = 3.4 DPMO … Why?_ https://www.qualitygurus.com/why-is-6-sigma-equal-to-3-4-dpmo/
+- SIPOC https://pt.wikipedia.org/wiki/SIPOC
+- Normal distribution https://www.me.psu.edu/casestudy/Statistics/normal.htm
+-   

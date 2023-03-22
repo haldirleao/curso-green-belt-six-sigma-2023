@@ -68,3 +68,7 @@ Geralmente quem aprova um projeto 6 sigma é o departamento financeiro/controlad
 - Na fase **D** do **DMAIC** trabalhe para encontrar os **_Quick wins_**. Trata-se dos ganhos rápidos. Eles são fáceis, rápidos e baratos para implementar.
 - Os **7 desperdícios**: produtos defeituosos, excesso de produção, estoques (MP, em processo e de produto acabado), excesso de movimentos, transportes desnecessários, espera e super processamento. Segundo o STP, o pior deles é o excesso de produção, pois ele “mascara” outros desperdícios.
 - A prevenção de custos (_cost avoid_) está relacionada com “economias suaves” (_soft saving_) e envolve a redução da taxa de aumento de custos, por meio de serviços de valor agregado, por exemplo. A economia de custos (_cost saving_), por outro lado, está relacionada a “economias tangíveis” (_hard saving_) que têm efeitos imediatos nos custos.
+
+## Referências
+- Videoaulas 2.6 a 2.9 https://vimeo.com/showcase/9985114 (Acesso restrito aos alunos)
+- A máquina que mudou o mundo https://www.amazon.com.br/M%C3%A1quina-que-Mudou-Mundo/dp/8535212698

@@ -2,7 +2,7 @@
 
 Contributed by: [@haldirleao](https://github.com/haldirleao), posted on 21/jan/2023.
 
-First prompt for chatGPT:
+First prompt in chatGPT:
 > I will provide some math equations or expressions, or explain to you what LaTeX output I need. Do not write any explanations or other words, just reply with the LaTex code. My first request is "the text: 'Population std:'. In a new line the equation of population std, in large font."
 
 ChatGPT answer:
