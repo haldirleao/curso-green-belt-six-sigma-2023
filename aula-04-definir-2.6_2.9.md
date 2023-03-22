@@ -1,5 +1,5 @@
 ## Curso Green Belt Six Sigma - projeto 04/2023
-## Aulas 04: Definir do DMAIC.
+## Aula 04: Definir do DMAIC.
 
 Conteúdos de 2.6 a 2.9 do cronograma.
 
