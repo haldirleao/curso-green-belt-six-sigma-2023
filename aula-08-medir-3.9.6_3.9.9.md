@@ -48,19 +48,19 @@ Note que **índice_capacidade * 3 = nível_sigma**.
 
 **Cp Capacidade Potencial** do processo. É uma medida de o quanto o processo é capaz de atender às especificações.
 
-$\text{Cp} = \dfrac{\text{LSE - LIE}}{6 \times \sigma } % Cp = (LSE - LIE) / (6 * σ)$
+$C_p = \dfrac{\text{LSE - LIE}}{6 \times \sigma } % Cp = (LSE - LIE) / (6 * σ)$
 
 Onde LSE: Limite Superior de Especificação , LIE: Limite Inferior de Especificação, σ: desvio padrão estimado.
 
 Exemplo. Dado LIE = 2, LSE = 8, σ = 1, logo:
 
-$Cp = \dfrac{8 - 2}{6 \times 1} = 1 % Cp = (LSE - LIE) / (6 * σ)$
+$C_p = \dfrac{8 - 2}{6 \times 1} = 1 % Cp = (LSE - LIE) / (6 * σ)$
 
 Note: **Cp = 1** indica que é um **processo potencial 3 sigma**. Pode-se afirmar que a variação da **distribuição normal** é da **mesma amplitude e localização** dos limites LIE e LSE.
 
 Exemplo. Dado LIE = 2, LSE = 8, σ = 0,5, logo:
 
-$Cp = \dfrac{8 - 2}{6 \times 0,5} = 2 % Cp = (LSE - LIE) / (6 * σ)$
+$C_p = \dfrac{8 - 2}{6 \times 0,5} = 2 % Cp = (LSE - LIE) / (6 * σ)$
 
 Note: **Cp = 2** indica que é um **processo potencial 6 sigma**. Pode-se afirmar que a variação da **distribuição normal** é a **metade da amplitude** dos limites LIE e LSE, e a média está localizada em $\approx\frac{(LSE - LIE)}{2} % (LSE - LIE)/2$ (centro da especificação).
 
@@ -90,13 +90,12 @@ Foi proposto um exercício para o cálculo do **Cp** e **CpK** de capacidade de 
 - **Causas Comuns** – aquelas que são **inerentes ao processo** no decorrer do tempo, que afetam a todos que trabalham nele e todos os resultados.
 - **Causas Especiais** – aquelas que não são parte do processo o tempo todo ou que não afetam a todos, mas que surgem em função de **circunstâncias específicas**.
 - 
-- $\text{Cp} = \dfrac{\text{LSE - LIE}}{6σ } % Cp = (LSE - LIE) / (6 * σ)$ → Capacidade **Potencial** do processo.
+- $C_p = \dfrac{\text{LSE - LIE}}{6σ } % Cp = (LSE - LIE) / (6 * σ)$ → Capacidade **Potencial** do processo.
 - 
-- $\text{C}_\text{pK}=\frac{{min((\overline{\overline{X}} - LIE),(LSE - \overline{\overline{X}}))}}{3 \times \sigma}% Cpk = min((X - LIE),(LSE - X)) / (3σ)$ → Capacidade **real**, **efetiva**, do processo.
+- $C_{pK}=\frac{{min((\overline{\overline{X}} - LIE),(LSE - \overline{\overline{X}}))}}{3 \times \sigma}% Cpk = min((X - LIE),(LSE - X)) / (3σ)$ → Capacidade **real**, **efetiva**, do processo.
 - **índice_capacidade * 3 = nível_sigma**
 
 ## Referências
 - Videoaulas 3.9.6 a 3.9.9 https://vimeo.com/showcase/9985114 (Acesso restrito aos alunos)
 - https://www.nortegubisian.com.br/blog/variacao-de-processos-descubra-como-o-six-sigma-pode-ajudar/
 - https://www.harbor.com.br/harbor-blog/2017/07/06/capacidade-performance-significado/
-- 

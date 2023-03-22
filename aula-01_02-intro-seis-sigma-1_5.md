@@ -13,7 +13,7 @@ Autor: [@haldirleao](https://github.com/haldirleao)
 
 O método **6 sigma** trata da **redução da variabilidade** nos processos, seja eles quais forem, para a busca do defeito próximo a zero. É um método eficaz para a resolução de problemas.
 
-Estatisticamente: $6\space sigma = 6\sigma = 6\space desvios-padrão$. Aplicada aos dados coletados no processo, que geralmente tendem a Distribuições Normais.
+Estatisticamente: $6\space sigma = 6\sigma = 6\space desvios \space padrão$. Aplicada aos dados coletados no processo, que geralmente tendem a Distribuições Normais.
 Pensando nos defeitos em processos, produtos, serviços, entre outros, 99% não é bom o suficiente. 99,999% (6 𝞼) é bom, e o que deve ser perseguido pelas organizações. Atualmente o nível, em muitas empresas, é de 4 sigma (6200 DPMO, ou 99,379% de oportunidades OK).
 
 ### 2. O que é qualidade
