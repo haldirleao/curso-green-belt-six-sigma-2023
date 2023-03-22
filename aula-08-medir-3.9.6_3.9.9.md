@@ -82,8 +82,14 @@ Foi proposto um exercício para o cálculo do **Cp** e **CpK** de capacidade de 
 
 ### 3.9.9 CAPACIDADE - DADOS NÃO NORMAIS 
 
-<font color="red">**PENDENTE**</font>
+Foi proposto um exercício para o cálculo da **capacidade potencial** e **efetiva** de corredores da prova de 800 m raso a completarem com tempo entre **LIE = 90** s e **LSE = 100 s**. Considerar subgruopos de 5 tomadas de tempo.
 
+- Passo 1 - Executar o teste de normalidade Anderson-Darling. Caminho no Minitab: _Estat > Estatísticas Básicas > Teste de normalidade..._. O resultado foi **valor-P = 0,023**. Como **valor-P < 0,05** a distribuição **não é normal**.
+
+**_E agora, josé?_** Não se preocupe, há como chegar lá!
+
+- Passo 2 - Com o minitab é possível identificar em que tipo de distribuição tais dados melhor se encaixa. Caminho no Minitab: _Estat > Ferramentas da qualidade > Identificação de Distribuição individual..._. No relatório apresentado observe a tabela **Teste de Qualidade de Ajuste**. A distribuição a ser escolhida deve ser a com o maior valor **P**. Neste caso foi a distribuição **Maior Valor Extremo**. 
+- Passo 3 - Cálculo da capacidade com base nos valores da tabela e especificações dadas. **Lembre-se**: agora a distribuição é **Não Normal**. Caminho no Minitab: _Estat > Ferramentas da qualidade > Análise de capacidade > Não normal..._. **Lembre-se** que na caixa de diálogo deve ser ajustada a **distribuição** para **"Maior Valor Extremo"**. O resultado foi de 385.297 DPMO (38,5% de corredores não atingirão as especificações dadas). O resultado é ruim.
 
 ## Apresente os pontos mais importantes
 
@@ -94,8 +100,11 @@ Foi proposto um exercício para o cálculo do **Cp** e **CpK** de capacidade de 
 - 
 - $C_{pK}=\frac{{min((\overline{\overline{X}} - LIE),(LSE - \overline{\overline{X}}))}}{3 \times \sigma}% Cpk = min((X - LIE),(LSE - X)) / (3σ)$ → Capacidade **real**, **efetiva**, do processo.
 - **índice_capacidade * 3 = nível_sigma**
+- É possível calcular a **Capacidade dos processos** mesmo quando os dados **não** correspondam a uma **distribuição normal**.
 
 ## Referências
 - Videoaulas 3.9.6 a 3.9.9 https://vimeo.com/showcase/9985114 (Acesso restrito aos alunos)
 - https://www.nortegubisian.com.br/blog/variacao-de-processos-descubra-como-o-six-sigma-pode-ajudar/
 - https://www.harbor.com.br/harbor-blog/2017/07/06/capacidade-performance-significado/
+- [Minitab: Capacidade global para Análise de capacidade normal](https://support.minitab.com/pt-br/minitab/21/help-and-how-to/quality-and-process-improvement/capability-analysis/how-to/capability-analysis/normal-capability-analysis/interpret-the-results/all-statistics-and-graphs/overall-capability/#ppl)
+- [Minitab: Insira seus dados para Análise de capacidade não normal](https://support.minitab.com/pt-br/minitab/21/help-and-how-to/quality-and-process-improvement/capability-analysis/how-to/capability-analysis/nonnormal-capability-analysis/perform-the-analysis/enter-your-data/?SID=30000)
