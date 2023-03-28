@@ -11,8 +11,9 @@ Autor: [@haldirleao](https://github.com/haldirleao)
 
 ### 3.5 NÚMERO DE CATEGORIAS DISTINTAS
 
-$NDC = \left(\dfrac{\sigma_{\text{peça\_a\_peça}}}{\sigma_{\text{sistema\_medição}}}\right)\times\sqrt{2}
-$
+$$
+NDC = \left(\dfrac{\sigma_{\text{peça\_a\_peça}}}{\sigma_{\text{sistema\_medição}}}\right)\times\sqrt{2}
+$$
 
 Uma forma simplificada de cálculo é: **NDC = (max_medido - min_medido) / resolução_instrumento**. Ex: Usa-se uma balança com resolução/precisão 0,1kg para medir cachorros que pesam de 29 a 41 kg, logo, NDC = (41 - 29) / 0,1 =  120.
 
@@ -105,8 +106,9 @@ Pode-se citar como formas para apresentação da variação do processo aos inte
 
 Desvio padrão amostral:
 
-$s = \sqrt{\dfrac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n-1}}
-$
+$$
+s = \sqrt{\dfrac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n-1}}
+$$
 
 Não se deve analisar unicamente o desvio padrão (que indica a variabilidade do processo). 
 Deve-se analisá-lo de forma conjunta com as especificações (critérios de aceitação).
@@ -115,8 +117,8 @@ O **histograma** representa graficamente uma **distribuição de frequências**,
 
 ## Apresente os pontos mais importantes
  
-- $NDC = \left(\dfrac{\sigma_{\text{peça\_a\_peça}}}{\sigma_{\text{sistema\_medição}}}\right)\times\sqrt{2}
-$
+- $$NDC = \left(\dfrac{\sigma_{\text{peça\_a\_peça}}}{\sigma_{\text{sistema\_medição}}}\right)\times\sqrt{2}
+$$
 - A fórmula acima é a utilizada pelo Minitab.
 - **NDC = (max_medido - min_medido) / resolução_instrumento**. Esta é a fórmula simplificada apresentada na videoaula.
 - **O NDC deve ser >=5**.
