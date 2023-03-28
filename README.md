@@ -22,7 +22,9 @@ Abaixo, os documentos que iniciam com a palavra "Aula..." são os usados para en
 - [Aula 01 e aula 02: Introdução ao Seis Sigma](aula-01_02-intro-seis-sigma-1_5.md)
 - [Aula 03: Definir do DMAIC (2.1 a 2.5)](aula-03-definir-2.1_2.5.md)
 - [Aula 04: Definir do DMAIC (2.6 a 2.9)](aula-04-definir-2.6_2.9.md)
-- Aula 05, 06, 07: 🚧 EM CONSTRUÇÃO 🚧
+- [Aula 05: Medir do DMAIC (3.0 a 3.4)](aula-05-medir-3.0_3.4.md)
+- [Aula 06: Medir do DMAIC (3.5 a 3.9)](aula-06-medir-3.5_3.9.md)
+- Aula 07: 🚧 EM CONSTRUÇÃO 🚧
 - [Aula 08: Medir do DMAIC (3.9.6 a 3.9.9)](aula-08-medir-3.9.6_3.9.9.md)
 - Projetos Minitab: consultar a pasta <u>**projetos-minitab**</u>
 - Documentos de apoio: consultar a pasta <u>**docs-de-apoio**</u>
