@@ -11,6 +11,7 @@ Minhas anotações enquanto frequentava o curso Green Belt Six Sigma, iniciativa
 - **Instrutor (videoaulas)**: [Ricardo K. Nagano](https://linkedin.com/in/ricardo-k-nagano-5383b327) (RL&Associados).
 - **Minha turma**: GB-6S 12 N Seg-Qua P4-23
 - **Monitores da turma**: [Sylvia  Benasci](https://linkedin.com/in/sylvia-benasci) /  [Emmanuel Costa](https://linkedin.com/in/emmanuel-costa) (_In memoriam_)
+- **Número de alunos inscritos**: ~2000
 
 ### Minhas anotações, arquivos e demais documentos
 
