@@ -24,8 +24,9 @@ Abaixo, os documentos que iniciam com a palavra "Aula..." são os usados para en
 - [Aula 04: Definir do DMAIC (2.6 a 2.9)](aula-04-definir-2.6_2.9.md)
 - [Aula 05: Medir do DMAIC (3.0 a 3.4)](aula-05-medir-3.0_3.4.md)
 - [Aula 06: Medir do DMAIC (3.5 a 3.9)](aula-06-medir-3.5_3.9.md)
-- Aula 07: 🚧 EM CONSTRUÇÃO 🚧
+- [Aula 07: Medir do DMAIC (3.9.1 a 3.9.5)](aula-07-medir-3.9.1_3.9.5.md)
 - [Aula 08: Medir do DMAIC (3.9.6 a 3.9.9)](aula-08-medir-3.9.6_3.9.9.md)
+- 🚧 Em breve: novas aulas 🚧
 - Projetos Minitab: consultar a pasta <u>**projetos-minitab**</u>
 - Documentos de apoio: consultar a pasta <u>**docs-de-apoio**</u>
 
