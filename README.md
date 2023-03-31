@@ -31,6 +31,8 @@ Abaixo, os documentos que iniciam com a palavra "Aula..." são os usados para en
 - Projetos Minitab: consultar a pasta <u>**projetos-minitab**</u>
 - Documentos de apoio: consultar a pasta <u>**docs-de-apoio**</u>
 
+Nota 01: Respondido o **1º simulado** em 31/03/2023. Foram 20 questões. Previsão de divulgação da nota: 10/04/2023. 
+
 ### Recursos tecnológicos
 
 Para a criação deste repositório estão sendo usados os seguintes recursos tecnológicos:
