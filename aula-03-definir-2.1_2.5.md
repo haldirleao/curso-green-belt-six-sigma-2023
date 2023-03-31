@@ -93,3 +93,4 @@ O projeto, seus objetivos e, consequentemente, os registros devem ser **SMART**:
 - _What is Voice of the Customer (VoC)?_ https://www.thinkleansixsigma.com/article/voc
 - _QFD - Quality Function Deployment_ https://en.wikipedia.org/wiki/Quality_function_deployment
 - _Project charter_ https://www.voitto.com.br/blog/artigo/project-charter
+- [_Requirements vs. specifications and other comparisons_](https://www.pmi.org/learning/library/project-requirements-specifications-5155)
