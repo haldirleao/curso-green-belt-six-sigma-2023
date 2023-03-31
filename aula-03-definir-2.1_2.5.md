@@ -74,7 +74,7 @@ Uma das formas de registro é o **_TeamCharter_**. É um documento conciso, subd
   
 Nele também estão registrados: data de início do projeto e data da última revisão do documento.
 
-O projeto, seus objetivos e, consequentemente, os registros devem ser **SMART**: _**S**pecific, **M**easurable, **A**ttainable, **R**ealistic, **T**ime-bound_.
+O projeto, seus objetivos e, consequentemente, os registros devem ser **SMART**: _**S**pecific, **M**easurable, **A**ssignable, **R**ealistic, **T**ime-related_. Nota: existem variações do acrônimo. Uma delas é: _**S**pecific, **M**easurable, **A**ttainable, **R**elevant, **T**imely_.
 
 ## Apresente os pontos mais importantes
 
