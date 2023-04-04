@@ -23,7 +23,7 @@ Para definir os objetivos de desempenho será usada a ferramenta **benchmarking*
 - processos iguais ou semelhantes existentes na organização (na mesma planta ou em plantas diferentes)
 - registros passados, com melhores resultados que os atuais
 
-**Benchmarking externo competivivo**. Compara produtos, serviços e processos em relação aos concorrentes diretos.
+**Benchmarking externo competitivo**. Comparam os produtos, serviços e processos em relação aos concorrentes diretos.
 
 **Benchmarking externo funcional**:
 - _"Quem por aí afora faz melhor que nós?"_
@@ -64,7 +64,7 @@ Passos importantes a serem respondidos e analisados durante a investigação:
 6. Investigar o **tipo de defeito**.
 7. Investigar **sintomas**.
 
-As equipes precisam vencer os obstáculos à análise da causa-raiz.
+As equipes precisam vencer os obstáculos para a análise da causa-raiz.
 
 | OBSTÁCULOS                                                                     | ORIENTAÇÕES PARA VENCER OS OBSTÁCULOS                                                                                  |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
@@ -89,7 +89,7 @@ As regras de um _brainstorming_ eficaz. **O que fazer**:
 - Todos conhecerem o foco (problema, ponto exato, tópico, área de negócio)
 - Não interromper quem estiver apresentando sua ideia
 - Aproveitar / aprimorar ideias existentes
-- Tentar ser breve ao apresentar suas ideiais
+- Tentar ser breve ao apresentar suas ideias
 - Após a sessão, organizar, categorizar e avaliar as ideias
 
 **O que não fazer**:
@@ -104,9 +104,9 @@ Como saber se uma potencial melhor ideia realmente é a melhor? Testando na prá
 
 ### 37 5 PORQUÊS
 
-É uma boa técnica para resolver problemas simples ou tomar os primeiros passos rumo à solução de de problemas mais complexos.
+É uma boa técnica para resolver problemas simples ou tomar os primeiros passos rumo à solução de problemas mais complexos.
 
-Segundo o site Ferramentas da Qualidade, O **5 Porquês** é uma ferramenta que consiste em **perguntar 5 vezes o porquê de um problema ou defeito ter ocorrido**, a fim de descobrir a sua real causa, ou seja, a causa raiz. Um ponto interessante e que vale mencionar é que, na prática, pode ser que não seja necessário perguntar 5 vezes “por quê” ou que seja necessário realizar mais de 5 questionamentos para identificar a causa raiz de um problema. Não há uma regra para isso, e apesar de o criador da ferramenta afirmar que 5 é o número ideal de vezes, depende muito do contexto de cada situação e empresa.
+Segundo o site Ferramentas da Qualidade, O **5 Porquês** é uma ferramenta que consiste em **perguntar 5 vezes o porquê de um problema ou defeito ter ocorrido**, a fim de descobrir a sua real causa, ou seja, a causa raiz. Vale mencionar que, na prática, pode ser que não seja necessário perguntar 5 vezes “por quê” ou que seja necessário realizar mais de 5 questionamentos para identificar a causa raiz de um problema. Não há uma regra para isso, e apesar de o criador da ferramenta afirmar que 5 é o número ideal de vezes, depende muito do contexto de cada situação e empresa.
 
 O instrutor indicou como uma restrição deste método que, conforme o desencadeamento das perguntas e respostas, não é incomum se chegar a causas-raiz distintas.
 
