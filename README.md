@@ -30,6 +30,7 @@ Abaixo, os documentos que iniciam com a palavra "Aula..." são os usados para en
 - Aula 09: Orientações para o 1º simulado
 - Aula 10: _Soft Skills_
 - [Aula 11: Analisar do DMAIC (34 a 37)](aula-11-analisar-34_37.md)
+- [Aula 12: Analisar do DMAIC (38 a 41)](aula-12-analisar-38_41.md)
 - 🚧 Em breve: novas aulas 🚧
 - Projetos Minitab: consultar a pasta <u>**projetos-minitab**</u>
 - Documentos de apoio: consultar a pasta <u>**docs-de-apoio**</u>
