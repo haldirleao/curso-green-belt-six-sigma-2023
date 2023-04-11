@@ -14,7 +14,7 @@ Autor: [@haldirleao](https://github.com/haldirleao)
 Os conteúdos desta aula são aplicados para **validar a causa-raiz**, último passo do **Analisar do DMAIC**. A validação é feita com o uso de ferramentas estatísticas, com intervalo de confiança de 95%.
 
 A validação é o estudo do relacionamento entre variáveis:
-- $x$ : **Causas**. Entrada, varíavel independente, controlável
+- $x$ : **Causas**. Entrada, variável independente, controlável
 - $y$ : **Efeitos dos defeitos/causas**. Saída, variável dependente.
 
 O que ocorre com a variável y (efeito) quando x (causa)varia?
@@ -40,7 +40,7 @@ Com a **observação visual do Gráfico de Dispersão** é possível afirmar, **
 
 A **Correlação Linear**, também conhecida como **Coeficiente de Correlação de Pearson**, é usada para **quantificar a força** de uma relação entre variáveis.
 
-A análise correlacional indica a relação entre 2 variáveis lineares e os **valores** sempre serão entre **+1 e -1**. O sinal indica a direção, se a correlação é positiva ou negativa, e o tamanho da variavel indica a força da correlação.
+A análise correlacional indica a relação entre 2 variáveis lineares e os **valores** sempre serão entre **-1 e +1**. O sinal indica a direção, se a correlação é positiva ou negativa, e o tamanho da variável indica a força da correlação.
 
 ![Fórmula do Coeficiente de Correlação de Pearson, fonte QuickLatex (cor da fonte: #096DFE).](https://quicklatex.com/cache3/c7/ql_616be020b6cfce2d35a746c3a45fdfc7_l3.png)
 
@@ -62,7 +62,7 @@ Caminho no Minitab: **_Estat >> Estatísticas básicas >> Correlação..._**.
 
 No exemplo dado é buscada a correlação entre peso (y) e comprimento (x). O resultado foi de **r = 0,883**, que **quantifica uma forte correlação positiva**. 
 
-No Minitab, além do $r_{x,y}$, a interpretação também pode feita com base no valor-p. Na aula foi sugerido:
+No Minitab, além do $r_{x,y}$, a interpretação também pode ser feita com base no valor-p. Na aula foi sugerido:
 - $p \le 0,05$ : Existe correlação
 - $p > 0,05$ : Não existe correlação
 
@@ -86,8 +86,8 @@ Com a regressão, podemos:
 
 - Com o **gráfico de dispersão** é possível observar se **existe, ou não, relação entre pares de variáveis**. Exemplo: relação entre uma causa (x) e um efeito (y). O resultado é **qualitativo**.
 - Com a **Correlação Linear**, também conhecida como Coeficiente de Correlação de Pearson, é possível **quantificar a força de uma relação entre variáveis**.
-- O valor da correlação linear sempre será entre **-1 e 1**.
-- A regressão linear somente deve ser aplicada com a correlação linear das variáveis é forte (r entre ± 0.7 a ± 1.0).
+- O valor da correlação linear sempre será entre **-1 e +1**.
+- A regressão linear somente deve ser aplicada com a correlação linear das variáveis é forte (r ≈ ± 0.7 a ± 1.0).
 
 ## Referências
 - Videoaulas 42 a 45 https://vimeo.com/showcase/9985114 (Acesso restrito aos alunos)
