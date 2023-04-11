@@ -31,11 +31,12 @@ Abaixo, os documentos que iniciam com a palavra "Aula..." são os usados para en
 - Aula 10: _Soft Skills_
 - [Aula 11: Analisar do DMAIC (34 a 37)](aula-11-analisar-34_37.md)
 - [Aula 12: Analisar do DMAIC (38 a 41)](aula-12-analisar-38_41.md)
+- [Aula 13: Analisar do DMAIC (42 a 45)](aula-13-analisar-42_45.md)
 - 🚧 Em breve: novas aulas 🚧
 - Projetos Minitab: consultar a pasta <u>**projetos-minitab**</u>
 - Documentos de apoio: consultar a pasta <u>**docs-de-apoio**</u>
 
-Nota 01: Respondido o **1º simulado** em 31/03/2023. Foram 20 questões. Previsão de divulgação da nota: 10/04/2023. 
+Obs. 01: Respondido o **1º simulado** em 31/03/2023. Foram 20 questões. Aproveitamento no simulado: **100%** de acertos. 
 
 ### Recursos tecnológicos
 
