@@ -90,7 +90,7 @@ Com a regressão, podemos:
 - A regressão linear somente deve ser aplicada com a correlação linear das variáveis é forte (r ≈ ± 0.7 a ± 1.0).
 
 ## Referências
-- Videoaulas 42 a 45 https://vimeo.com/showcase/9985114 (Acesso restrito aos alunos)
+- Videoaulas 42 a 45 https://vimeo.com/showcase/10009507 (Acesso restrito aos alunos)
 - https://pt.wikipedia.org/wiki/Intervalo_de_confian%C3%A7a
 - https://pt.wikipedia.org/wiki/Coeficiente_de_correla%C3%A7%C3%A3o_de_Pearson
 - 

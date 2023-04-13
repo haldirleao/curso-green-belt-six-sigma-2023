@@ -121,6 +121,6 @@ O instrutor indicou como uma restrição deste método que, conforme o desencade
 - Princípios do **5 porquês**: ao encontrar um problema, devemos realizar 5 interações perguntando o porquê daquele problema, sempre questionando a causa apontada anteriormente.
 
 ## Referências
-- Videoaulas 34 a 37 https://vimeo.com/showcase/9985114 (Acesso restrito aos alunos)
+- Videoaulas 34 a 37 https://vimeo.com/showcase/10009507 (Acesso restrito aos alunos)
 - https://en.wikipedia.org/wiki/Benchmarking
 - https://ferramentasdaqualidade.org/5-porques/

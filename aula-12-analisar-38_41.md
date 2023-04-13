@@ -91,6 +91,6 @@ Nessa aula foi proposto a aplicação do Pareto para priorizar a resolução de 
 - O Pareto e o Nível Sigma trabalham juntos para determinar as prioridades.
 
 ## Referências
-- Videoaulas 38 a 41 https://vimeo.com/showcase/9985114 (Acesso restrito aos alunos)
+- Videoaulas 38 a 41 https://vimeo.com/showcase/10009507 (Acesso restrito aos alunos)
 - https://pt.wikipedia.org/wiki/Kaoru_Ishikawa
 - https://en.wikipedia.org/wiki/Ishikawa_diagram
