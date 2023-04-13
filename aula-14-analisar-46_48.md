@@ -22,7 +22,7 @@ No Minitab, variáveis de interesse em um experimento (aquelas que são medidas 
 Resultados da 1a Análise de Regressão - Comprimento (x) vs Peso (y):
 - Equação: $y = -9,28 + 28,15 x$
 - R²(aj) = 66,94%: indica que 66,9%  da variável Peso é explicada pela variável Comprimento
-- Também foi apresentado um **resíduo** no resultado, indicada pela letra R em uma das observações.
+- Também foi apresentado um **resíduo** no resultado, indicado pela letra R em uma das observações.
 
 Segundo o instrutor, **os dados indicados como resíduos devem ser analisados e revisados. E, talvez, excluídos da amostra**.
 
@@ -30,17 +30,17 @@ Resultados da 2a Análise de Regressão - após excluir o resíduo:
 - Equação: $y = -18,70 + 37,48 x$
 - R²(aj) = 84,11%: indica que 84,1% da variável Peso é explicada pela variável Comprimento
 
-A tabela (dados de entrada) **sem ocorrência de resíduos** é a evidência de qua a Regressão Linear **é confiável**.
+A tabela (dados de entrada) **sem ocorrência de resíduos** é a evidência de que a Regressão Linear **é confiável**.
 
 ### 47 TESTE DE HIPÓTESES
 
->_"O teste de hipóteses fornecem ferramentas que nos permitem rejeitar ou não rejeitar uma hipótese estatística através da evidencia fornecida pela amostra."_
+>_"O teste de hipóteses fornecem ferramentas que nos permitem rejeitar ou não rejeitar uma hipótese estatística através da evidência fornecida pela amostra."_
 
 Os tipos de testes de hipótese mais usados, e disponíveis no Minitab, são:
 - Teste Z para uma amostra
 - Teste t para uma amostra
 - Teste t para duas amostras
-- Teste t paresdo
+- Teste t pareado
 
 Caminho no Minitab: **_Stat >> Estatísticas básicas >>_ Teste...**
 
@@ -75,7 +75,7 @@ O valor-p calculado foi $p = 0,000$. Logo se deve rejeitar a hipótese nula $H_{
 ## Apresente os pontos mais importantes
 
 - A **regressão linear** somente é **aplicável** para dados com **forte correlação linear**;
-- Cuidados com o **resíduos** dos dados de entrada. Eles devem ser analisados, revisados e/ou excluídos para que a **equação da reta** seja **confiável**.
+- Cuidado com os **resíduos** dos dados de entrada. Eles devem ser analisados, revisados e/ou excluídos para que a **equação da reta** seja **confiável**.
 - _"Um teste de hipótese é regra que especifica se deve aceitar ou rejeitar uma alegação sobre uma população de acordo com as provas fornecidas por uma amostra de dados."_
 - Teste Z 1 amostra. Interpretação do valor-p:
   - $p < 0,05$ : rejeitar a hipótese nula ($H_{0}$)
