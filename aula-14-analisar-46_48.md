@@ -52,7 +52,7 @@ Exemplos de perguntas que podem ser respondidas com um teste de hipótese:
 - Os estudantes do sexo masculino e feminino diferem na altura, em média?
 - Os estudantes de graduação do sexo masculino apresentam proporção significativamente maior do que a proporção de estudantes do sexo feminino de graduação?
 
-### 48 TESTES Z 1 AMOSTRA
+### 48 TESTES Z. 1 AMOSTRA
 
 Este teste faz a **comparação** estatística **entre uma média** e **um valor pré-determinado**. O **desvio padrão** deve ser **conhecido** e o tamanho da amostra deve ser **_n ≥ 30_**.
 
