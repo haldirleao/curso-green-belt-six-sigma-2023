@@ -37,6 +37,7 @@ O valor-p calculado foi $p = 0,205$. Logo se deve aceitar a hipótese nula $H_{0
 
 Teste de hipótese t para 2 amostras:
 - Faz a comparação estatística **entre duas médias independentes**.
+- O **desvio padrão** é **desconhecido** e o tamanho da amostra é **n < 30**.
 
 Nessa aula foi proposto o seguinte exercício:
 
@@ -62,6 +63,7 @@ O valor-p calculado foi $p = 0,011$. Logo se deve rejeitar a hipótese nula $H_{
 
 Teste de hipótese t pareado:
 - Faz a comparação estatística **entre duas médias de amostras dependentes**.
+- O **desvio padrão** é **desconhecido** e o tamanho da amostra é **n < 30**.
 
 Nessa aula foi proposto o seguinte exercício:
 
@@ -85,17 +87,12 @@ O valor-p calculado foi $p = 0,04$. Logo se deve rejeitar a hipótese nula $H_{0
 
 ## Apresente os pontos mais importantes
 
-- Teste de hipótese **t para 1 amostra**:
-  - Faz a comparação estatística entre **uma média** e **um valor pré-determinado**.
-  - O **desvio padrão** é **desconhecido** e o tamanho da amostra é **n < 30**.
+- Nos testes t o **desvio padrão** é **desconhecido** e o tamanho da amostra é **n < 30**.
+- Teste de hipótese **t para 1 amostra** faz a comparação estatística entre **uma média** e **um valor pré-determinado**.
+- Teste de hipótese **t para 2 amostras**: faz a comparação estatística **entre duas médias independentes**.
 
-- Teste de hipótese **t para 2 amostras**:
-  - Faz a comparação estatística **entre duas médias independentes**.
-
-- Teste de hipótese **t pareado**:
-  - Faz a comparação estatística **entre duas médias de amostras dependentes**.
+- Teste de hipótese **t pareado**: faz a comparação estatística **entre duas médias de amostras dependentes**.
 
 ## Referências
 - Videoaulas 49 a 51 https://vimeo.com/showcase/10009507 (Acesso restrito aos alunos)
 - https://blog.minitab.com/pt/nocoes-basicas-sobre-testes-t-para-uma-amostra-para-duas-amostras-e-pareados
-- 
