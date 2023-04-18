@@ -25,7 +25,7 @@ Hipóteses:
 - $H_{0}: \mu = 72 \space kg/mm²$ : A máquina continua com resultado igual a antes do ajuste. 
 - $H_{1}: \mu \neq 72 \space kg/mm²$ : A máquina está com resultado diferente do antes do ajuste.
 
-Caminho no Minitab: **_Stat >> Estatísticas básicas >> Teste t para 1 amostra..._** Nas opções configurar o **nível de confiança = 95%** e a hipótese alernativa para **média ≠ média_hipotética**.
+Caminho no Minitab: **_Stat >> Estatísticas básicas >> Teste t para 1 amostra..._** Nas opções configurar o **nível de confiança = 95%** e a hipótese alternativa para **média ≠ média_hipotética**.
 
 Interpretação do valor-p:
 - $p < 0,05$ : rejeitar a hipótese nula ($H_{0}$)
@@ -51,7 +51,7 @@ Caminho no Minitab: **_Stat >> Estatísticas básicas >> Teste t para 2 amostras
 - Amostra 1: Antiga
 - Amostra 2: Nova
 - Nível de confiança = 95%
-- Hipótese alernativa para **diferença < diferença_hipotética**
+- Hipótese alternativa para **diferença < diferença_hipotética**
 
 Interpretação do valor-p:
 - $p < 0,05$ : rejeitar a hipótese nula ($H_{0}$)
@@ -67,7 +67,7 @@ Teste de hipótese t pareado:
 
 Nessa aula foi proposto o seguinte exercício:
 
-Noves pessoas participaram de um **novo programa de emagrecimento**. Verifique se a nova dieta é eficiente, ou seja, diminuindo o peso dos participantes.
+Nove pessoas participaram de um **novo programa de emagrecimento**. Verifique se a nova dieta é eficiente, ou seja, diminuindo o peso dos participantes.
 
 Hipóteses:
 - $H_{0}: peso\_antes = peso\_depois$
@@ -77,7 +77,7 @@ Caminho no Minitab: **_Stat >> Estatísticas básicas >> Teste t pareado..._** N
 - Amostra 1: Antes
 - Amostra 2: Depois
 - Nível de confiança = 95%
-- Hipótese alernativa para **diferença > diferença_hipotética**
+- Hipótese alternativa para **diferença > diferença_hipotética**
 
 Interpretação do valor-p:
 - $p < 0,05$ : rejeitar a hipótese nula ($H_{0}$)
