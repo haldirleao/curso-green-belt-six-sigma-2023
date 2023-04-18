@@ -96,3 +96,4 @@ O valor-p calculado foi $p = 0,04$. Logo se deve rejeitar a hipótese nula $H_{0
 ## Referências
 - Videoaulas 49 a 51 https://vimeo.com/showcase/10009507 (Acesso restrito aos alunos)
 - https://blog.minitab.com/pt/nocoes-basicas-sobre-testes-t-para-uma-amostra-para-duas-amostras-e-pareados
+- [P Value from T Score Calculator - socscistatistics.com](https://www.socscistatistics.com/pvalues/tdistribution.aspx)
