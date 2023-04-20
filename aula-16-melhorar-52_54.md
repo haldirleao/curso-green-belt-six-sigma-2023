@@ -34,7 +34,7 @@ O instrutor sugere que, ao pensarmos criativamente, tentemos utilizar o "cérebr
 
 Essa é a hora de consolidar e apresentar os estudos anteriores do projeto, inclusive com as opções de melhoria:
 - Com base nas alternativas apresentadas é que **serão tomadas as decisões sobre o projeto**.
-- É importante se apresentado **o quanto se gastaria** e **o quanto se ganharia** em cada alternativa.
+- É importante ser apresentado **o quanto se gastaria** e **o quanto se ganharia** em cada alternativa.
 
 O que se espera de uma boa solução?
  - Que atenda, se possível exceda, os objetivos do projeto.
