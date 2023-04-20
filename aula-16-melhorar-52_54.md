@@ -33,7 +33,7 @@ O instrutor sugere que, ao pensarmos criativamente, tentemos utilizar o "cérebr
 | Objeto físico   | Não verbal      |
 
 Essa é a hora de consolidar e apresentar os estudos anteriores do projeto, inclusive com as opções de melhoria:
-- Com base nas alternativas apresentadas é que **serão tomadas as decições sobre o projeto**.
+- Com base nas alternativas apresentadas é que **serão tomadas as decisões sobre o projeto**.
 - É importante se apresentado **o quanto se gastaria** e **o quanto se ganharia** em cada alternativa.
 
 O que se espera de uma boa solução?
@@ -58,7 +58,7 @@ Para encontrar a melhor solução possível, complete os seguintes passos:
 Lembre-se: o objetivo agora é apresentar as melhores **recomendações possíveis** à alta direção.
 
 As possíveis soluções devem:
-- Satifazer os CCR (_Customer Critical Requerements_)
+- Satisfazer os CCR (_Customer Critical Requerements_)
 - Reduzir ou eliminar as causas raízes.
 - Impactar positivamente o nível Sigma.
 - Apresentar resultados no menor **tempo**, já que:
@@ -78,7 +78,7 @@ Cuidados com as soluções inadequadas:
 - Conflitam diretamente com a estratégia da organização
 - Violam leis, normas, diretrizes, etc (governamentais, da empresa, etc).
 
-Por fim, chegar ao consenso de qual/quais solução/soluções serão implementadas.
+Por fim, chegar ao consenso de quais, ou qual,  soluções serão implementadas.
 
 ### 54 PLANO DE AÇÃO
 
@@ -106,6 +106,7 @@ Mesmo num plano piloto, é essencial que os recursos mínimos sejam disponibiliz
 
 ## Apresente os pontos mais importantes
 
+- Melhorar (_Improve_) do DMAIC: hora de consolidar o projeto Six Sigma e apresentar à alta direção: oportunidades, riscos, custos, ganhos, melhores opções a serem implementadas. E conseguir, ou não, a aprovação (_Go / No Go_). 
 - Utilize o _Brainstorm_ na etapa de geração de ideias de melhoria.
 - Trabalhe nas causas-raiz de maior impacto (de maior retorno financeiro e/ou que criarão maior valor para o cliente).
 - Plano de ação: 5W2H + status.
