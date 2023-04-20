@@ -34,6 +34,7 @@ Abaixo, os documentos que iniciam com a palavra "Aula..." são os usados para en
 - [Aula 13: Analisar do DMAIC (42 a 45)](aula-13-analisar-42_45.md)
 - [Aula 14: Analisar do DMAIC (46 a 48)](aula-14-analisar-46_48.md)
 - [Aula 15: Analisar do DMAIC (49 a 51)](aula-15-analisar-49_51.md)
+- [Aula 16: Melhorar do DMAIC (52 a 54)](aula-16-melhorar-52_54.md)
 - 🚧 Em breve: novas aulas 🚧
 - Projetos Minitab: consultar a pasta <u>**projetos-minitab**</u>
 - Documentos de apoio: consultar a pasta <u>**docs-de-apoio**</u>
