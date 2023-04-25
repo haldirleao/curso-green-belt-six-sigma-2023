@@ -11,7 +11,7 @@ Autor: [@haldirleao](https://github.com/haldirleao)
 
 ### 55 GERENCIAR A MUDANÇA
 
-**Criando compromisso**: significa alcançar um nível de **suporte** significativo dos **empregados** que devem mudar, afim de obter os **benefícios da mudança**. 
+**Criando compromisso**: significa alcançar um nível de **suporte** significativo dos **empregados** que devem mudar, a fim de obter os **benefícios da mudança**. 
 
 | Mudança no négocio   |                        |
 |----------------------|------------------------|
@@ -63,7 +63,7 @@ Passos para elaborar uma boa apresentação sobre os resultados do projeto Seis 
 3. Plano de medição. Apresentar os dados em gráficos.
 4. processo, CP, CPK e nível sigma. Antes e depois da implantação da melhoria. E custos.
 5. Objetivos e metas do projeto.
-6. Como se chegou nas principais causas-raiz. E também às melhores soluções.
+6. Como se chegou às principais causas-raiz. E também às melhores soluções.
 7. O resultado financeiro anualizado do projeto: _payback_ e _cost savings (hard saving + soft saving + cost avoid)_.
 
 ## Apresente os pontos mais importantes
