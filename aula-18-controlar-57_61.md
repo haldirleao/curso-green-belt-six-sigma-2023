@@ -187,8 +187,8 @@ https://leansixsigmabrasil.com.br/controle-estatistico-de-processo-cep/
 - Processo sob controle estatístico: quando as únicas fontes de variação são as causas comuns.
 - O Teorema do Limite Central afirma que quando o tamanho da amostra aumenta, a distribuição amostral da sua média aproxima-se cada vez mais de uma distribuição normal.
 - Carta x̄-R: 2 gráficos: Gráfico das Médias e Gráfico das Amplitudes
-- Carta NP: Em inglês, Number Defective chart.
-- Carta c: Em inglês, c-chart Number of Non-Conformities Chart.
+- Carta NP: Em inglês, _Number Defective chart_.
+- Carta c: Em inglês, _c-chart (Number of Non-Conformities Chart)_.
 - IMPORTANTE: Os limites de especificação (do cliente) não são usados em cartas de controle. 
 - CEP e criação de cartas de processo. Online e gratuito. Link http://spcchartsonline.com/index.php/online-spc-control-charts/spc-control-charts/
 - Não use as cartas de controle para fazer supercontrole!
