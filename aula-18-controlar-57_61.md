@@ -3,7 +3,7 @@
 
 Conteúdo de 57 a 61 do cronograma.
 
-Data da entrega: 26/04/2023
+Data da entrega: 27/04/2023
 
 Autor: [@haldirleao](https://github.com/haldirleao)
 
@@ -28,7 +28,7 @@ O CEP:
 | **C** | Controle    | Manter algo dentro dos limites                                                                                                       |
 |-------|-------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | **E** | Estatístico | Ciência que reúne e classifica fatos, baseando-se em seu número e frequência, chegando a conclusões gerais                           |
-| **P** | Processo    | Série de atividades sucessivas com nexo de causa e efeito, ocm um conjunto de variáveis necessárias para obter um produto ou serviço |
+| **P** | Processo    | Série de atividades sucessivas com nexo de causa e efeito, com um conjunto de variáveis necessárias para obter um produto ou serviço |
 
 O método CEP foi desenvolvido por Walter Andrew Shehart.
 
@@ -50,9 +50,9 @@ Vantagens do CEP:
 
 O **controle de qualidade** atua, basicamente, no **resultado do processo**. O CEP **atua no processo**.
 
-**Ações locais**: Geralmente são necessidades para eliminar **causas especiais** de variação, logo tem potencial para corrigir ~15% dos problemas. As ações podem ser tomadas por pessoas próximas ao processo.
+**Ações locais**: Geralmente são necessárias para eliminar **causas especiais** de variação, logo tem potencial para corrigir ~15% dos problemas. As ações podem ser tomadas por pessoas próximas ao processo.
 
-**Ações sobre o sistema**: Geralmente são necessidades para eliminar **causas comuns** de variação. Quase sempre demandam ações gerenciais para a correção. Tem potencial para corrigir ~85% dos problemas.
+**Ações sobre o sistema**: Geralmente são necessárias para eliminar **causas comuns** de variação. Quase sempre demandam ações gerenciais para a correção. Tem potencial para corrigir ~85% dos problemas.
 
 **Processo sob controle estatístico**: quando as **únicas fontes de variação são as causas comuns**.
 
@@ -74,9 +74,9 @@ Tipos de cartas de controle (imagem no slide 845):
   - **Carta U**
   - **Carta P**
 - Cartas para variáveis: diâmetro interno da arruela, torque angular, dureza, etc.
-  - **Carta I-AM**
   - **Carta x̄-R** (x̄: Média | R: Amplitude)
-  - **Carta x̄-S**  
+  - **Carta x̄-S** (x̄: Média | S: Desvio padrão)
+  - **Carta I-AM** (média e a variação do processo de observações individuais e não em subgrupos)
 
 **Diário de bordo**: uma planilha que geralmente acompanha a carta de processo, para que o operador anote ocorrências relevantes durante as atividades (hora de mudança de matéria-prima, final de lote, _setup_, mudança inesperada de operador, etc). Os registros podem apoiar na investigação de causas especiais.
 
@@ -132,7 +132,7 @@ Como não tenho mais acesso ao Minitab, criei a carta de controle Xbarra no Goog
 
 Carta NP: Em inglês, _**N**umber **D**efective chart_. 
 
-Exemplos: parafusos com defeitos, televisores com defeitos, pasteis com defeitos, etc. São usadas para determinar se o número de itens com defeito está sob controle estatístico. Caminho no Minitab: **_Stat >> Cartas de Controle >> Cartas de Atributos >> NP..._**
+Exemplos: parafusos com defeitos, televisores com defeitos, pastéis com defeitos, etc. São usadas para determinar se o número de itens com defeito está sob controle estatístico. Caminho no Minitab: **_Stat >> Cartas de Controle >> Cartas de Atributos >> NP..._**
 
 Link para criação de cartas NP online: http://spcchartsonline.com/index.php/online-spc-control-charts/spc-control-charts/attribute-control-charts/np-chart/
 
@@ -147,7 +147,7 @@ Caminho no Minitab: **_Stat >> Cartas de Controle >> Cartas de Atributos >> C...
 
 Link para criação de cartas C online: http://spcchartsonline.com/index.php/online-spc-control-charts/spc-control-charts/attribute-control-charts/c-chart/
 
-IMPORTANTE: **Os limites de especificação não são usados em cartas de controle**. Os limites são definidos pelo dados do próprio processo.
+IMPORTANTE: **Os limites de especificação não são usados em cartas de controle**. Os limites são definidos pelos dados do próprio processo.
 
 ### 61 CAPACIDADE E ESTABILIDADE
 
@@ -196,7 +196,7 @@ https://leansixsigmabrasil.com.br/controle-estatistico-de-processo-cep/
 ## Referências
 - Videoaulas 57 a 61 https://vimeo.com/showcase/10027791 (Acesso restrito aos alunos)
 - CEP http://www.producao.ufrgs.br/arquivos/disciplinas/388_apostilacep_2012.pdf
-- Cartas de controle - dados contínuos https://edisciplinas.usp.br/pluginfile.php/4145169/mod_resource/content/1/CEP%20-%20cartas%20de%20controle.pdf
+- [Cartas de controle. Dados contínuos - Ribeiro & Caten - UFRGS](https://edisciplinas.usp.br/pluginfile.php/4145169/mod_resource/content/1/CEP%20-%20cartas%20de%20controle.pdf)
 - [Minitab: Modificar os limites de controle para Carta Xbarra-R](https://support.minitab.com/pt-br/minitab/20/help-and-how-to/quality-and-process-improvement/control-charts/how-to/variables-charts-for-subgroups/xbar-r-chart/perform-the-analysis/xbar-r-options/modify-the-control-limits/)
 - [Minitab: Interpretar os principais resultados para Carta NP](https://support.minitab.com/pt-br/minitab/20/help-and-how-to/quality-and-process-improvement/control-charts/how-to/attributes-charts/np-chart/interpret-the-results/key-results/#:~:text=A%20carta%20NP%20representa%20graficamente,o%20n%C3%BAmero%20m%C3%A9dio%20de%20defeituosos.)
 - [Carta NP (_NP chart_)](http://spcchartsonline.com/index.php/online-spc-control-charts/spc-control-charts/attribute-control-charts/np-chart/)
