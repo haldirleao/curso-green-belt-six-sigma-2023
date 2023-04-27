@@ -13,7 +13,7 @@ Autor: [@haldirleao](https://github.com/haldirleao)
 
 **Criando compromisso**: significa alcançar um nível de **suporte** significativo dos **empregados** que devem mudar, a fim de obter os **benefícios da mudança**. 
 
-| Mudança no négocio   |                          |
+| Mudança no negócio   |                          |
 |----------------------|--------------------------|
 | **Mudança técnica**  |**Mudança comportamental**|
 | Estratégia           | Comportamento            |
