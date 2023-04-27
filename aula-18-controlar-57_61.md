@@ -80,11 +80,11 @@ Tipos de cartas (imagem no slide 845):
 
 Média das médias dos subgrupos:
 
-$\overline{\overline{X}} = \cfrac{ \overline{X_1} + \overline{X_2} + \overline{X_n}  }{n}$
+$\overline{\overline{X}} = \dfrac{ \overline{X_1} + \overline{X_2} + \overline{X_n}  }{n}$
 
 Média das amplitudes dos subgrupos:
 
-$\overline{R} = \cfrac{ R_1 + R_2 + R_n }{n}$
+$\overline{R} = \dfrac{ R_1 + R_2 + R_n }{n}$
 
 Para o **gráfico das amplitudes**:
 
