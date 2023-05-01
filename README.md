@@ -38,6 +38,7 @@ Abaixo, os documentos que iniciam com a palavra "Aula..." são os usados para en
 - [Aula 17: Melhorar do DMAIC (55 a 56)](aula-17-melhorar-55_56.md)
 - [Aula 18: Controlar do DMAIC (57 a 61)](aula-18-controlar-57_61.md)
 - [Aula 19: Controlar do DMAIC (62 a 64)](aula-19-controlar-62_64.md)
+- Aula 20: _Soft Skills_
 - 🚧 Em breve: novas aulas 🚧
 - Projetos Minitab: consultar a pasta <u>**projetos-minitab**</u>
 - Documentos de apoio: consultar a pasta <u>**docs-de-apoio**</u>
