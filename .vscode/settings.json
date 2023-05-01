@@ -1,10 +1,13 @@
 {
-    "cSpell.language": "pt-BR",
+    "cSpell.language": "pt-BR,en",
     "cSpell.words": [
+        "DFMEA",
         "DMAIC",
+        "FMEA",
         "Lean",
         "minitab",
         "Minitab",
+        "PFMEA",
         "Xbarra"
     ]
 }
