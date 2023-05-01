@@ -13,13 +13,11 @@ Autor: [@haldirleao](https://github.com/haldirleao)
 
 **FMEA** (_Failure Mode and Effects Analysis_): Análise dos modos de falha e seus efeitos.
 
-É um **método preventivo** foi desenvolvido pela NASA, nos anos 1960, inicialmente aplicado na aviação e desenvolvimento de tecnologia nuclear.
+É um **método preventivo** desenvolvido pela NASA, nos anos 1960, inicialmente aplicado na aviação e desenvolvimento de tecnologia nuclear.
 
 Na indústria automotiva a Ford foi a primeira empresa a aplicar nos seus projetos (DFMEA) e processos (PFMEA). Atualmente é aplicado pelas indústrias de diversos segmentos.
 
-É uma técnica para assegurar que todas as **possíveis falhas do projeto, processo u sistema e seus efeitos** foram consideradas e analisadas. O principal objetivo é a **redução ou eliminação dos efeitos** ocorrerem, com ações recomendadas **antes do início da produção**.
-
-Durante a aula foi elaborado um FMEA sobre "produção e entrega de pastéis".
+É uma técnica para assegurar que todas as **possíveis falhas do projeto, processo ou sistema e seus efeitos** foram consideradas e analisadas. O principal objetivo é a **redução ou eliminação dos efeitos** ocorrerem, com ações recomendadas **antes do início da produção**.
 
 Fluxo do FMEA: Descrição do sistema >> Análise das funções >> Análise das falhas potenciais e seus efeitos >> Análise de risco >> Definição das ações preventivas, corretivas e de detecção >> Reavaliação do risco potencial após a implementação das ações
 
@@ -42,7 +40,7 @@ O método pode ser aplicado para projeto (DFMEA), produção ou processo (PFMEA)
 
 ### 63 TREINAMENTO E DOCUMENTAÇÃO
 
-Após a implantação de uma **melhoria no processo alguma coisa mudou!** Logo é importante que todos saibam o que, como, e por que fazer diferente a partir de agora.
+Após a implantação de uma **melhoria no processo, alguma coisa mudou!** Logo é importante que todos saibam o que, como, e por que fazer diferente a partir de agora.
 
 A execução de treinamento depende de alguns fatores:
 - Quantidade de pessoas envolvidas
@@ -55,7 +53,7 @@ O _green belt_ não necessariamente é quem realiza o treinamento, mas sim deve 
 
 **Documentação**: qual a relação entre documentação e fase de controle do DMAIC?
 
-Tudo a ver! todas as mudanças que decorrerem dos projetos _six sigma_ deve ser registrados nos respectivos documentos de processo.
+Tudo a ver! todas as mudanças que decorrerem dos projetos _six sigma_ devem ser registrados nos respectivos documentos de processo.
 
 Alguns documentos que devem ser revisados sempre que necessário:
 - FMEA
@@ -83,12 +81,11 @@ Encerramento das aulas do treinamento. Espera-se que tenhamos aprendido:
 - **FMEA** (_Failure Mode and Effects Analysis_): Análise dos modos de falha e seus efeitos.
 - FMEA: método para prevenção da ocorrência de falhas e seus efeitos.
 - Nível de risco **NRP = S * O * D**
-- Treinamento: após a implantação de uma **melhoria no processo alguma coisa mudou!** Logo é importante que todos saibam o que, como, e por que fazer diferente a partir de agora.
+- Treinamento: após a implantação de uma **melhoria no processo, alguma coisa mudou!** Logo é importante que todos saibam o que, como, e por que fazer diferente a partir de agora.
 - A documentação deve ser sempre revisada para refletir fielmente as mudanças ocorridas no processo.
 - Não há como melhorar sem ter padrão!
 
 ## Referências
 - Videoaulas 62 a 64 https://vimeo.com/showcase/10027791 (Acesso restrito aos alunos)
 - FMEA https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis
-- 
-- Questionário - Controlar. Aproveitamento de x de y (##%).
+- Questionário - Controlar. Aproveitamento de 3 de 3 (100%).
