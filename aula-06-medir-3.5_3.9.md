@@ -89,7 +89,7 @@ Três elementos-chaves para determinar se o requisito do cliente está sendo ate
 
 A **média nos mostra a localização do processo** e o **desvio padrão nos mostra a variabilidade**.
 
-Quando processos possuem dados do tipo variável coletado, há se seguintes maneiras de melhorá-lo:
+Quando os processos possuem dados do tipo variável coletados, temos as seguintes maneiras de melhorá-lo:
 1. Reduzir a variabilidade
 2. Deslocando a média
 3. Trabalhando para alterar tanto a variabilidade quanto a média

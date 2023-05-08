@@ -62,7 +62,7 @@ Deve-se planejar o prazo para início e término do projeto. A partir deste per�
 
 ### 2.5 REGISTRAR O PROJETO
 
-Cada empresa pode escolher/definir a formar para registrar o projeto.
+Cada empresa pode escolher/definir a forma para registrar o projeto.
 
 Uma das formas de registro é o **_TeamCharter_**. É um documento conciso, subdividido em seis campos: 
 - impacto nos negócios 
