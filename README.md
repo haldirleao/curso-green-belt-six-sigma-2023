@@ -39,11 +39,12 @@ Abaixo, os documentos que iniciam com a palavra "Aula..." são os usados para en
 - [Aula 18: Controlar do DMAIC (57 a 61)](aula-18-controlar-57_61.md)
 - [Aula 19: Controlar do DMAIC (62 a 64)](aula-19-controlar-62_64.md)
 - Aula 20: _Soft Skills_
-- 🚧 Em breve: novas aulas 🚧
 - Projetos Minitab: consultar a pasta <u>**projetos-minitab**</u>
 - Documentos de apoio: consultar a pasta <u>**docs-de-apoio**</u>
 
-Obs. 01: Respondido o **1º simulado** em 31/03/2023. Foram 20 questões. Aproveitamento no simulado: **100%** de acertos. 
+Obs. 01: Respondido o **1º simulado** em 31/03/2023. Foram 20 questões. Aproveitamento no simulado: **100%** de acertos.
+
+Obs. 02: Respondido o **2º simulado - final** em 08/05/2023. Foram 35 questões. Aproveitamento no simulado: **Aguardando comunicado da FAT. Data prevista: 22/05/2023**.
 
 ### Recursos tecnológicos
 
