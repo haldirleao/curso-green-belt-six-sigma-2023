@@ -44,7 +44,11 @@ Abaixo, os documentos que iniciam com a palavra "Aula..." são os usados para en
 
 Obs. 01: Respondido o **1º simulado** em 31/03/2023. Foram 20 questões. Aproveitamento no simulado: **100%** de acertos.
 
-Obs. 02: Respondido o **2º simulado - final** em 08/05/2023. Foram 35 questões. Aproveitamento no simulado: **Aguardando comunicado da FAT. Data prevista: 22/05/2023**.
+Obs. 02: Respondido o **2º simulado - final** em 08/05/2023. Foram 35 questões. Aproveitamento no simulado: **90%** de acertos.
+
+Receberei:
+- Declaração de conclusão do curso emitido gratuitamente pela Fundação FAT.
+- Certificado de Formação **Green Belt Six Sigma** emitido  pela RL Associados com reconhecimento internacional do **CSSC-Council for Six Sigma Certification**. (valor promocional oferecido pela RL)
 
 ### Recursos tecnológicos
 
