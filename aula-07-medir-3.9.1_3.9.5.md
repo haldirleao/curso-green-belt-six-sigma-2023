@@ -59,7 +59,7 @@ Há **dois métodos básicos** para se calcular o **nível sigma** de um process
 - **Valor Z**:  para tipos de dados variáveis ou contínuos. Nota: A distribuição deve ser aproximadamente Normal;
 - **DPMO (Defeitos Por Milhão de Oportunidades)**: para tipos de dados por atributo ou discreto. Nota: é preciso, ao menos, 5 defeitos.
 
-![Fórmula do DPMO, fonte QuickLatex (cor da fonte: #096DFE). DPMO = (D / (n * O)) * 1.000.000](https://quicklatex.com/cache3/14/ql_0c73c06e697631e62bb31acd3318d914_l3.png)
+![Fórmula do DPMO, fonte QuickLatex (cor da fonte: #096DFE). DPMO = (D / (n * O)) * 1.000.000](https://drive.google.com/uc?id=1om__MgBnzEL842a7WpI3oAmAL9_mLBv_)
 
 Onde:
 - $D$: quantidade de defeitos encontrados na amostra
@@ -74,7 +74,7 @@ Calculado o **DPMO** de curto ou longo prazo, é possível encontrar o **nível 
 
 No exercício proposto encontrei 20 oportunidades de defeitos para o produto caneta. Dados: número de amostras = 525 e defeitos = 25.
 
-![Exemplo DPMO, fonte QuickLatex (cor da fonte: #096DFE). DPMO = (25 / (525 * 20)) * 1.000.000 ≈ 2381](https://quicklatex.com/cache3/ac/ql_2716aa492a69c610808b7657bb98c0ac_l3.png)
+![Exemplo DPMO, fonte QuickLatex (cor da fonte: #096DFE). DPMO = (25 / (525 * 20)) * 1.000.000 ≈ 2381](https://drive.google.com/uc?id=1-_adx5L1_ZcExelq4vsFBrUin016O65x)
 
 Consultando a tabela nível sigma de longo prazo este é um processo **2,8 sigma**.
 
@@ -109,7 +109,7 @@ Os resultados foram **Z benchmark global = 0,83 sigma**.  **Z benchmark dentro =
   - Estou com problema?
   - Se sim, como resolver?
 
-- ![Fórmula do DPMO, fonte QuickLatex (cor da fonte: #096DFE). DPMO = (n_defeitos / (n_amostras * n_oportun_defeitos)) * 1.000.000](https://quicklatex.com/cache3/d5/ql_0e20da613b96bc6b20f83d013b6596d5_l3.png)
+- ![Fórmula do DPMO, fonte QuickLatex (cor da fonte: #096DFE). DPMO = (n_defeitos / (n_amostras * n_oportun_defeitos)) * 1.000.000](https://drive.google.com/uc?id=1gluR1AIpFGGgXKpjcK1ns2vvWk0NJpVl)
 
 - **Calculado o DMPO, use a tabela de Níveis Sigma para encontrar o atual nível sigma do processo.**
 - Interpretação do teste de normalidade _Anderson-Darling_:

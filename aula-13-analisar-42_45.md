@@ -42,7 +42,7 @@ A **Correlação Linear**, também conhecida como **Coeficiente de Correlação 
 
 A análise correlacional indica a relação entre 2 variáveis lineares e os **valores** sempre serão entre **-1 e +1**. O sinal indica a direção, se a correlação é positiva ou negativa, e o tamanho da variável indica a força da correlação.
 
-![Fórmula do Coeficiente de Correlação de Pearson, fonte QuickLatex (cor da fonte: #096DFE).](https://quicklatex.com/cache3/c7/ql_616be020b6cfce2d35a746c3a45fdfc7_l3.png)
+![Fórmula do Coeficiente de Correlação de Pearson, fonte QuickLatex (cor da fonte: #096DFE).](https://drive.google.com/uc?id=12Hxr4eUWo_p-5kMjkBiD7ON9fwvX2Oy6)
 
 - **+1** : correlação positiva perfeita
 - **-1** : correlação negativa perfeita
