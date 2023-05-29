@@ -12,7 +12,7 @@ Autor: [@haldirleao](https://github.com/haldirleao)
 ### 3.5 NÚMERO DE CATEGORIAS DISTINTAS
 
 
-![Fórmula do NDC, fonte QuickLatex (cor da fonte: #096DFE). NDC = (σ_peça_a_peça / σ_sistema_medição) * sqrt(2)](https://quicklatex.com/cache3/2b/ql_20a67c85394aba1830455e54fd60282b_l3.png)
+![Fórmula do NDC, fonte QuickLatex (cor da fonte: #096DFE). NDC = (σ_peça_a_peça / σ_sistema_medição) * sqrt(2)](https://drive.google.com/uc?id=1w47bwh3CTmpuuGI9tnhmTPAIhFQXhJ_r)
 
 Uma forma simplificada de cálculo é: **NDC = (max_medido - min_medido) / resolução_instrumento**. Ex: Usa-se uma balança com resolução/precisão 0,1kg para medir cachorros que pesam de 29 a 41 kg, logo, NDC = (41 - 29) / 0,1 =  120.
 
@@ -42,7 +42,7 @@ Caminho no Minitab: menu **_Stat >> Ferramentas da Qualidade >> Análise de conc
 
 **Na análise Avaliador vs Padrão, recomenda-se que o acerto de cada avaliador seja >90\%**. Algumas empresas adotam >95\%.
 
-### 3.7 ÍNDICE KAPP
+### 3.7 ÍNDICE KAPPA
 
 **Índice Kappa = Índice de concordância** (Pode variar entre **-1 e +1**).
 
@@ -105,7 +105,7 @@ Pode-se citar como formas para apresentação da variação do processo aos inte
 
 Desvio padrão amostral:
 
-![Fórmula do Desvio Padrão Amostral, fonte QuickLatex (cor da fonte: #096DFE)](https://quicklatex.com/cache3/83/ql_c69882b43695c885c4a2ea247a268983_l3.png)
+![Fórmula do Desvio Padrão Amostral, fonte QuickLatex (cor da fonte: #096DFE)](https://drive.google.com/uc?id=1ae1OouqONStAjUnlz0TORuCrLp2-d7hm)
 
 Não se deve analisar unicamente o desvio padrão (que indica a variabilidade do processo). 
 Deve-se analisá-lo de forma conjunta com as especificações (critérios de aceitação).
@@ -114,7 +114,7 @@ O **histograma** representa graficamente uma **distribuição de frequências**,
 
 ## Apresente os pontos mais importantes
  
-- ![Fórmula do NDC, fonte QuickLatex (cor da fonte: #096DFE). NDC = (σ_peça_a_peça / σ_sistema_medição) * sqrt(2)](https://quicklatex.com/cache3/2b/ql_20a67c85394aba1830455e54fd60282b_l3.png)
+- ![Fórmula do NDC, fonte QuickLatex (cor da fonte: #096DFE). NDC = (σ_peça_a_peça / σ_sistema_medição) * sqrt(2)](https://drive.google.com/uc?id=1w47bwh3CTmpuuGI9tnhmTPAIhFQXhJ_r)
 - A fórmula acima é a utilizada pelo Minitab.
 - **NDC = (max_medido - min_medido) / resolução_instrumento**. Esta é a fórmula simplificada apresentada na videoaula.
 - **O NDC deve ser >=5**.

@@ -86,4 +86,3 @@ O 6 sigma é suportado por várias ferramentas. Temos que entender que temos dis
 - _Six Sigma = 3.4 DPMO … Why?_ https://www.qualitygurus.com/why-is-6-sigma-equal-to-3-4-dpmo/
 - SIPOC https://pt.wikipedia.org/wiki/SIPOC
 - Normal distribution https://www.me.psu.edu/casestudy/Statistics/normal.htm
--   

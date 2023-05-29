@@ -70,8 +70,8 @@ Nessa aula foi proposto o seguinte exercício:
 Nove pessoas participaram de um **novo programa de emagrecimento**. Verifique se a nova dieta é eficiente, ou seja, diminuindo o peso dos participantes.
 
 Hipóteses:
-- $H_{0}: peso\_antes = peso\_depois$
-- $H_{1}: peso\_antes > peso\_depois$
+- $H_{0}: peso_{antes} = peso_{depois}$
+- $H_{1}: peso_{antes} > peso_{depois}$
 
 Caminho no Minitab: **_Stat >> Estatísticas básicas >> Teste t pareado..._** Nas opções configurar:
 - Amostra 1: Antes
@@ -83,7 +83,7 @@ Interpretação do valor-p:
 - $p < 0,05$ : rejeitar a hipótese nula ($H_{0}$)
 - $p \ge 0,05$ : aceitar a hipótese nula ($H_{0}$)
 
-O valor-p calculado foi $p = 0,04$. Logo se deve rejeitar a hipótese nula $H_{0}: peso\_antes = peso\_depois$. Conclusão: **a dieta funcionou, já que o peso antes era maior que o peso depois**.
+O valor-p calculado foi $p = 0,04$. Logo se deve rejeitar a hipótese nula $H_{0}: peso_{antes} = peso_{depois}$. Conclusão: **a dieta funcionou, já que o peso antes era maior que o peso depois**.
 
 ## Apresente os pontos mais importantes
 
